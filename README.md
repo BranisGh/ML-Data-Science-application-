@@ -1,2 +1,4 @@
 # ML-Data-Science-application-
 Predict the success or failure of an application through statistical approaches and machine learning.
+
+Dans ce travail, nous avons essayé de développer un algorithme de prédiction pour les demandes d'emploi. Nous avons à notre disposition un fichier csv qui contient un certain nombre de caractéristiques décrivant une demande d'emploi masculine/féminine. Dans un premier temps, nous allons explorer le jeu de données (fichier csv) en essayant de comprendre les données et d'extraire les relations sémantiques significatives entre les caractéristiques (1.Statistiques descriptives.ipynb). Ensuite, nous développerons des algorithmes d'apprentissage automatique pour essayer de prédire une embauche (2.Data_Pre-processing_And_Modalisation.ipynb).    
